@@ -1,0 +1,19 @@
+{
+  "name": "covid-data",
+  "version": "1.0.0",
+  "description": "Covid data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsS4nty/Covid-Data.git"
+  },
+  "author": "Santy Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsS4nty/Covid-Data/issues"
+  },
+  "homepage": "https://github.com/itsS4nty/Covid-Data#readme"
+}
